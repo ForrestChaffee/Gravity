@@ -5,7 +5,7 @@ There are many ways of inserting physics into coding languanges. There are many 
 
 **Background**
 
-This can be used as review of prior and current classes and help me gain a further understanding of the scope and degree of codings aplicability.
+This can be used as review of prior and current classes and help with gaining a further understanding of the scope and degree of codings aplicability.
 
 **Resources** 
 
