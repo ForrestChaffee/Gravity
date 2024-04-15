@@ -1,7 +1,7 @@
 # Uncertainty of Prediction (Title)
 **Summary**  
 
-There are many ways of inserting physics into coding languanges. There are many tests that have been done that one can compare ones code results to.
+There are many ways of inserting physics into coding languanges. There are many tests that have been done that one can compare the accuracy of ones code results to.
 
 **Background**
 
