@@ -9,7 +9,7 @@ This can be used as review of prior and current classes and help with gaining a 
 
 **Resources** 
 
-Python, it's extensions, what others have done with them, and what I have done with them.  
+Python, it's extensions, what others have done with them, and what I have done with them can all be used.
 
 **Objectives**  
 
