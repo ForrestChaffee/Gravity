@@ -3,4 +3,5 @@ Using measured sea currents to see where liquid falls and rises (or evaporates) 
 
 
 Resources:
-https://scitechdaily.com/machine-learning-makes-waves-a-better-way-to-study-ocean-currents/#:~:text=Oceanographers%20use%20data%20on%20buoy%20velocity%20to%20predict,can%20make%20predictions%20even%20when%20data%20are%20sparse.
+1. https://scitechdaily.com/machine-learning-makes-waves-a-better-way-to-study-ocean-currents/#:~:text=Oceanographers%20use%20data%20on%20buoy%20velocity%20to%20predict,can%20make%20predictions%20even%20when%20data%20are%20sparse.
+2. https://www.ncei.noaa.gov/access/world-ocean-database/bin/getwodyearlydata.pl
