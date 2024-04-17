@@ -1,0 +1,2 @@
+# Predicting 
+Using measured sea currents to see where liquid falls and rises (or evaporates) to predict temperature at different regions by Helmholtz decomposition. Where there is positive divergence the liquid is rising. Where there is negative divergence the liquid is falling. Could this help predict sea vents or underwater geography?
